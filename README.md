@@ -1,1 +1,1 @@
-# TheCybernauts
+# TheCybernauts Bookshop Management System Project.
